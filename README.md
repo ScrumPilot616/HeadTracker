@@ -2,6 +2,10 @@
 
 
 ## Features
+Output selectable between
+- PPM
+- Serial
+- WiFi
 
 
 ## Hardware
@@ -28,10 +32,14 @@
 
 
 ## Setup
+Setup is done by the HeadTracker configuration tool.
 
 ### Configuration
+![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/HeadTrackerConfig.png)
 
 ### Calibration
+![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/HeadTrackerCalibration.png)
+
 ![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/HeadTrackerCalibrationTest.png)
 
 
@@ -43,7 +51,7 @@
 
 
 ## Example builds
-### By Scumpilot616
+### By ScrumPilot616
 #### HeadTracker
 #### Mounted on DJI googles
 
