@@ -53,9 +53,9 @@ Setup is done by the HeadTracker configuration tool.
 ## Example builds
 ### By ScrumPilot616
 #### HeadTracker
-![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/HeadTracker_SP_Example1.jpg)
+![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/Headtracker_SP_Example1.jpg)
 
-![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/HeadTracker_SP_Example1.jpg)
+![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/Headtracker_SP_Example2.jpg)
 
 
 #### Mounted on DJI googles
