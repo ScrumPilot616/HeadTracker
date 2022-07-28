@@ -3,7 +3,7 @@
 
 ## Features
 Output selectable between
-- PPM
+- CPPM
 - Serial
 - WiFi
 
