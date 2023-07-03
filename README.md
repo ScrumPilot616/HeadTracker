@@ -24,11 +24,22 @@ Output selectable between
 ![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/HeadtrackerHW.png)
 
 
-## Installation
+## Build
+### Arduino IDE
+Download and install the Arduino IDE (e.g. 1.8.19) and add the bordmanager for ESP8266 devices (3.1.2).
+For both you can find a detailed description [here](https://arduino-esp8266.readthedocs.io/en/3.1.1/installing.html#boards-manager).
 
+Select the board type "LOLIN(WEMOS) D1 R2 & mini".
+Open the source file HeadTrackerSP.ino and compile it. 
+  
 ### Flashing Firmware
+If the compilation was successful connect your ESP device with an USB cable.
+Press the upload button.
+
 
 ### Configuration Tool
+For the configuration tool .Net runtime is required.
+The executable of the configuration tool can be used witout any preparation
 
 
 
