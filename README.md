@@ -20,6 +20,7 @@ Output selectable between
 - 3.5mm jack 4 Pin
  
 ### Wiring
+
 ![N|Solid](https://github.com/ScrumPilot616/HeadTracker/blob/main/images/HeadtrackerHW.png)
 
 
@@ -48,6 +49,7 @@ Setup is done by the HeadTracker configuration tool.
 | Library     | Author | Licence|
 | ----------- | ------ |--------|
 | MPU9250 |  Copyright (c) 2018 Hideaki Tai | MIT License |
+| [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino) | 3.1.2 |  LGPL-2.1   |
 
 
 ## Example builds
