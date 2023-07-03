@@ -34,13 +34,14 @@ Open the source file HeadTrackerSP.ino and compile it.
   
 ### Flashing Firmware
 If the compilation was successful connect your ESP device with an USB cable.
+Select the correct COM port for your ESP device.
 Press the upload button.
 
 
 ### Configuration Tool
-For the configuration tool .Net runtime is required.
-The executable of the configuration tool can be used witout any preparation
-
+The configuration tool runs under Windows and requires .Net runtime.
+Start the configuration tool, select the correct COM port and press connect.
+In the status bar color should be green with the message "Headtracker connected!"
 
 
 ## Setup
